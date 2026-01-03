@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -126,7 +125,7 @@
         <div class="actions">
             <button class="btn" onclick="bootServer()">Start Server</button>
             
-            <a href="VonlessSMP_Mods.zip" class="btn btn-download" download>
+            <a href="Mods.zip" class="btn btn-download" download>
                 Download Modpack
             </a>
         </div>
